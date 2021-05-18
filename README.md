@@ -4,6 +4,6 @@ A Java application similar to Microsoft Paint where a user can draw various 2 di
 
 # HOW TO:
 
-* To run the application, run the main class, Java2dDrawingApplication, inside the Java2dDrawingApplication.java file
+* Run the main class, Java2dDrawingApplication, inside the Java2dDrawingApplication.java file
 
 * Once running, select a shape, whether you want it filled, or just the outline, the line width, and dash width.
